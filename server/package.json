@@ -22,5 +22,6 @@
     "nodemon": "^2.0.7",
     "path": "^0.12.7",
     "validator": "^13.5.2"
-  }
+  },
+  "proxy": "http://localhost:4000"
 }
